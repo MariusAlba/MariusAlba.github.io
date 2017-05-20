@@ -2,10 +2,10 @@
      h1{
         font-size: 1.7rem;
     }
-    .dropdown{
+   .dropdown{
         display: block;
         height: 50px;
-        width: 105%;
+        width: 104%;
         background: url('../img/menu.png') no-repeat 99% center;
         cursor: pointer;
     }
@@ -88,7 +88,13 @@
         max-height: 380px;
         padding: 50px 25px 0;
     }
-    
+     .dropdown{
+        display: block;
+        height: 50px;
+        width: 110%;
+        background: url('../img/menu.png') no-repeat 99% center;
+        cursor: pointer;
+    }
     .title {
         font-size: 1rem;
         border: none;
@@ -121,8 +127,6 @@
         padding: inherit;
         background: rgba(0,0,0,.6);
     }
-    
-    
     .resort,
     .tips {
     float: none;
