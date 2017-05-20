@@ -149,6 +149,7 @@ li {
 .intro {
   font-size: 1.25em; /* 20px/16px */
   line-height: 1.6;
+  padding: 0px;
 }
 .introAbout{
   font-size: 1.25em; 
@@ -159,7 +160,7 @@ li {
 .main-headerAbout{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(#ffa949, transparent 80%),
+    background: linear-gradient(#0099ff, transparent 80%),
                 linear-gradient(0deg,#fff, transparent 35%),
                 #ffa949 url('../img/dmitri-popov-71519.jpg') no-repeat center;
     
@@ -169,7 +170,7 @@ li {
 .main-header{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(#ffa949, transparent 80%),
+    background: linear-gradient(#0099ff, transparent 80%),
                 linear-gradient(0deg,#fff, transparent 35%),
                 #ffa949 url('../img/rodion-kutsaev-41022.jpg') no-repeat center;
     
