@@ -52,12 +52,12 @@ h3 {
 }
 
 a {
- color: black;  
+ color: white;  
  text-decoration: none;
 }
 
 a:hover {
-    color: rgba(0,0,0,.6);;
+    color: wheat;
 }
 
 /*
@@ -160,8 +160,7 @@ li {
 .main-headerAbout{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(#0099ff, transparent 80%),
-                linear-gradient(0deg,#fff, transparent 35%),
+    background: linear-gradient(0deg,#fff, transparent 35%),
                 #ffa949 url('../img/dmitri-popov-71519.jpg') no-repeat center;
     
     background-size: cover;
@@ -170,8 +169,7 @@ li {
 .main-header{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(#0099ff, transparent 80%),
-                linear-gradient(0deg,#fff, transparent 35%),
+    background: linear-gradient(0deg,#fff, transparent 35%),
                 #ffa949 url('../img/rodion-kutsaev-41022.jpg') no-repeat center;
     
     background-size: cover;
@@ -378,6 +376,9 @@ li {
     content: "";
     display: table;
     clear: both;
+}
+.bTop{
+    color: black;
 }
 
 /*
