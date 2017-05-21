@@ -6,7 +6,7 @@ $(document).ready(function(){
 });
 
 document.addEventListener('DOMContentLoaded', function(){
-      Typed.new('.title' '.titleAbout', {
+      Typed.new('.title','.titleAbout', {
         strings: ["Always Learning Always Evolving"],
         typeSpeed: 50
       });
