@@ -161,7 +161,7 @@ li {
     padding-top: 17px;
     height: 750px;
     background: linear-gradient(0deg,#fff, transparent 35%),
-                #ffa949 url('../img/dmitri-popov-71519.jpg') no-repeat center;
+                url('../img/dmitri-popov-71519.jpg') no-repeat center;
     
     background-size: cover;
 }
@@ -170,7 +170,7 @@ li {
     padding-top: 17px;
     height: 750px;
     background: linear-gradient(0deg,#fff, transparent 35%),
-                #ffa949 url('../img/rodion-kutsaev-41022.jpg') no-repeat center;
+                url('../img/rodion-kutsaev-41022.jpg') no-repeat center;
     
     background-size: cover;
     
@@ -328,7 +328,7 @@ li {
     margin-bottom: 90px;
     color: wheat;
 }
-.fa{
+.email{
     color: wheat;
 }
 
