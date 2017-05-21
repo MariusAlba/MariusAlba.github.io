@@ -145,6 +145,16 @@ li {
     font-weight: 200;
     padding-bottom: 2px;
 }
+.titleAbout{
+    color:black;
+    font-size: 1.625rem; /* 26px/16px = 1.625em */
+    letter-spacing: .065em;
+    font-weight: 200;
+    padding-bottom: 2px;
+}
+.h1About{
+    color: black;
+}
 
 .intro {
   font-size: 1.25em; /* 20px/16px */
