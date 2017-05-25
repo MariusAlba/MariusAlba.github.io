@@ -234,7 +234,6 @@ li {
     width: 100%;
     display: inline-block;
     overflow: hidden;
-    border-bottom: 2px solid #dfe2e6;
     padding-bottom: 30px;
     font-size: 1.20em;
 }
@@ -269,6 +268,14 @@ li {
 .main-header,
 .main-headerAbout{
    text-align: center;
+}
+#about-content{
+    width: 75%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+    max-width: 960px;
+    text-align: center;
 }
 
 .t-border {
