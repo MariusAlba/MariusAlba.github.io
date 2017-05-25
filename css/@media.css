@@ -32,6 +32,9 @@
         margin: 0;
         background: linear-gradient(white, transparent 100%)
     }
+    .textAboutMe{
+        padding-bottom: 5px;
+    }
 /*
     header nav ul li{
         color: white;
@@ -44,11 +47,6 @@
     .pictureAbout{
         width: 100%;
         filter:none;
-        
-    }
-    .pictureAboutSnake{
-        width: 100%;
-        filter: none;
     }
     .primary-content,
     .secondary-content {
@@ -107,6 +105,9 @@
     .intro {
         font-size: 1rem;
 
+    }
+    .introAbout {
+        font-size: 1rem;
     }
     .mePicture img{
     max-height: 9%;
