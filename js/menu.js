@@ -12,9 +12,4 @@ document.addEventListener('DOMContentLoaded', function(){
       });
   });
 
-document.addEventListener('DOMContentLoaded', function(){
-      Typed.new('.titleAbout', {
-        strings: ["Always Learning Always Evolving"],
-        typeSpeed: 50
-      });
-  });
+$('.nav').localScroll();
