@@ -1,7 +1,6 @@
 $(document).ready(function(){
-   
-    $(".dropdown").on("click", function(){
-        $("header nav ul").toggleClass("open");
+    $(".menu-icon").on("click", function(){
+        $("nav ul").toggleClass("showIcon");
     });
 });
 
@@ -12,4 +11,4 @@ document.addEventListener('DOMContentLoaded', function(){
       });
   });
 
-$('.nav').localScroll();
+$('nav').localScroll();

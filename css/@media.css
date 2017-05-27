@@ -2,48 +2,32 @@
      h1{
         font-size: 1.7rem;
     }
-   .dropdown{
-        display: block;
-        height: 50px;
-        width: 104%;
-        background: url('../img/menu.png') no-repeat 99% center;
-        cursor: pointer;
-    }
     #top {
         width: 100%;
         padding: 0;
     }
-    header nav ul {
-        overflow: hidden;
-        background: linear-gradient(#ffa949);
-        height: 0;
-    }
-    header nav ul.open {
-        height: auto;
-        margin: 0px;
-    }
-    header nav ul li{
-        float: none;
-        text-align: right;
-        width: 100%;
-        margin: 0;
-        padding: 1px;
-        display: block;
-        margin: 0;
-        background: linear-gradient(white, transparent 100%)
-    }
     .textAboutMe{
         padding-bottom: 5px;
     }
-/*
-    header nav ul li{
-        color: white;
-        padding: 1px;
-        display: block;
-        margin: 0;
-        background: linear-gradient(#ffa949, transparent 100%)
+    
+    nav ul li {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 15px;
+        text-align: right;
     }
-*/
+    nav ul{
+        max-height: 0px;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .showIcon{
+        max-height: 20em;
+    }
+    nav ul li:hover {
+    background-color: rgba(0,0,0,.6);
+    }
     .pictureAbout{
         width: 100%;
         filter:none;
