@@ -38,7 +38,8 @@
     }
     
 .mePicture img{
-    max-width: 25%;
+    max-height: 30%;
+    max-width: 30%;
     width: auto;
     height: auto;
     border-radius:10px;
@@ -94,8 +95,8 @@
         font-size: 1rem;
     }
     .mePicture img{
-    max-height: 40%;
-    max-width: 40%;
+    max-height: 30%;
+    max-width: 24%;
     width: auto;
     height: auto;
     border-radius:10px;
