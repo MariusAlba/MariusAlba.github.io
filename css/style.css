@@ -57,7 +57,7 @@ a {
 }
 
 a:hover {
-    color: dodgerblue;
+    color: black;
 }
 
 /*
@@ -138,23 +138,15 @@ li {
     background: rgba(0,0,0,.6);
 }
 
-
 .title {
-    color:white;
+    color:midnightblue;
     font-size: 1.625rem; /* 26px/16px = 1.625em */
     letter-spacing: .065em;
     font-weight: 200;
     padding-bottom: 2px;
 }
-.titleAbout{
-    color:black;
-    font-size: 1.625rem; /* 26px/16px = 1.625em */
-    letter-spacing: .065em;
-    font-weight: 200;
-    padding-bottom: 2px;
-}
-.h1About{
-    color: black;
+.name{
+    color: midnightblue;
 }
 
 .intro {
@@ -168,7 +160,6 @@ li {
   text-align: justify;
   padding: inherit;
 }
-
 .main-headerAbout{
     padding-top: 17px;
     height: 750px;
@@ -182,7 +173,7 @@ li {
     padding-top: 17px;
     height: 750px;
     background: linear-gradient(0deg,#fff, transparent 35%),
-                url('../img/rodion-kutsaev-41022.jpg') no-repeat center;
+                url('../img/dmitri-popov-71519.jpg') no-repeat center;
     
     background-size: cover;
 }
