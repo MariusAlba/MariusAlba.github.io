@@ -57,7 +57,7 @@ a {
 }
 
 a:hover {
-    color: wheat;
+    color: dodgerblue;
 }
 
 /*
@@ -337,13 +337,15 @@ nav ul li a{
     margin-top: 20px;
     display: inline-block;
 }
-.contact{
+#contact{
     text-align: center;
     font-size: 1.60em;
     margin-bottom: 90px;
     color: black;
+    
 }
-.email{
+.email,
+.linkedIn{
     color: black;
 }
 
