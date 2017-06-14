@@ -236,6 +236,7 @@ nav ul li a{
     
 }
 .pictureAbout{
+    border-radius:10px;
     width: 40%;
     float: right;
     padding: 5px;
@@ -365,6 +366,7 @@ nav ul li a{
     box-shadow: 6px -10px;
 }
 .quotBox{
+    border-radius:10px;
     color: ivory;
     width: 100%;
     padding-top: 17px;
