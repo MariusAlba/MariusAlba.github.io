@@ -331,21 +331,27 @@ nav ul li a{
 }
 #contact{
     text-align: center;
-    font-size: 1.60em;
-    color: black;
-    
+    font-size: 1.90em;
+    padding: 20px;
 }
 .email,
-.linkedIn{
-    color: black;
+.facebook,
+.linkedIn
+{
+    padding: 15px;
 }
 
+.facebook:hover,
+.linkedIn:hover
+{
+    color: navy;
+}
 #main-footer {
     border-top: 2px solid;
     padding-top: 6px;
     padding-bottom: 16px;
-    border-bottom: solid 10px #ffa949;
     text-align: center;
+    background-color: #bdd7e0;
 }
 
 /*********************************************
