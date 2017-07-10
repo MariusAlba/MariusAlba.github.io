@@ -57,6 +57,10 @@
     .main-headerAbout nav ul li{
         margin-bottom: 16px;
     }
+    #main-footer {
+    padding: 20px 0;
+    background-color: #d3d3d3;
+    }
     
 }
 
@@ -121,5 +125,6 @@
   }
   #main-footer {
     padding: 20px 0;
+    background-color: #d3d3d3;
   }
 }
