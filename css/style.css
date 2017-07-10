@@ -6,10 +6,11 @@
 }
 
 body {
-    color: grey;
+    color: gray;
     margin: 0;
     font-size: 1em/1.5;
     font-family: sans-serif;
+    background-color: whitesmoke;
 }
 
 img {
