@@ -173,8 +173,11 @@ li {
 .main-header{
     padding-top: 17px;
     height: 750px;
+    background: linear-gradient(170deg,#5c87b3, transparent 78%);
+/*
     background: linear-gradient(0deg,#fff, transparent 35%),
                 url('../img/dmitri-popov-71519.jpg') no-repeat center;
+*/
     
     background-size: cover;
 }
