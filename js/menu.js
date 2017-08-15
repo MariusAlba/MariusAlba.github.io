@@ -28,6 +28,16 @@ $(document).ready(function() {
     });
 });
 
+
+
+jQuery(document).ready(function(){
+	jQuery('.skillbar').each(function(){
+		jQuery(this).find('.skillbar-bar').animate({
+			width:jQuery(this).attr('data-percent')
+		},6000);
+	});
+});
+
 document.addEventListener('DOMContentLoaded', function(){
       Typed.new('.title', {
         strings: ["Always Learning Always Evolving","Technology is a way to adapt"],
