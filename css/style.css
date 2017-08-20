@@ -23,6 +23,10 @@ img:hover {
     filter: grayscale(0);
 }
 
+.hobbies{
+    padding-top: 13%;
+}
+
 ul,
 ol {
     margin: 30px 0;
