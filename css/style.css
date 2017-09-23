@@ -213,7 +213,7 @@ nav ul li a{
     background-color: lightgray;
     text-align: right;
     box-sizing: border-box;
-    padding: 15px 10px;
+    padding: 1px 10px;
     cursor: pointer;
     color: lightseagreen;
     display: none;
@@ -289,42 +289,6 @@ nav ul li a{
 .t-border {
   border-top: 2px solid #dfe2e6;
 }
-/*
-.skills ol {
-    padding: 0;
-    font-size: 1.80em;
-}
-
-.skills2 ol {
-    padding: 0;
-    font-size: 1.80em;
-}
-
-.lastBoxAbout{
-    color: darkblue;
-    background-color: #434a52;
-    padding: 1px 24px;
-    margin: 7% 0% 7%;
-    border-top: 5px solid;
-    background:  no-repeat center;
-    background-size: cover;
-    box-shadow: inset 0px 0px 50px 10px grey;
-    border-radius: 25px;
-}
-
-.skills,
-.skills2{
-    color: #33849f;
-    background-color: #434a52;
-    padding: 1px 24px;
-    margin: 7% 0% 7%;
-    border-top: 5px solid;
-    background:  no-repeat center;
-    background-size: cover;
-    box-shadow: inset 0px 0px 50px 10px grey;
-    border-radius: 25px;
-}
-*/
 
 .primary-content {
 	padding-top: 25px;
@@ -387,15 +351,12 @@ nav ul li a{
     box-shadow: 6px -10px;
 }
 .quotBox{
-    border-radius:10px;
-    color: ivory;
+    border-radius:4px;
+    color: #231f20;
     width: 100%;
-    padding-top: 17px;
-    height: 750px;
-    background: linear-gradient(#1aa3ff, transparent 80%),
-                linear-gradient(0deg,#fff, transparent 15%),
-                #ffa949 url('../img/rob-bye-200739.jpg') no-repeat center;
-    
+    padding-top: 7px;
+    height: 80%;
+    background: linear-gradient(rgba(0,0,0,.2), transparent 80%), linear-gradient(0deg,#fff, transparent 0%), #dfe2e6 no-repeat center;
     background-size: cover;
 }
 .resort li {
@@ -497,18 +458,6 @@ nav ul li a{
     color:#ffffff;
     color:rgba(0, 0, 0, 0.4);
 }
-
-/*
-.box {
-  width:90%;
-  height:300px;
-  max-width: 600px;
-  padding: 20px;
-  border: 2px solid green;
-  margin: auto;
-  overflow: auto;
-  box-sizing:border-box;
-}*/
 
 /**************
     Typed course
