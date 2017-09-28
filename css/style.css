@@ -23,15 +23,6 @@ img:hover {
     filter: grayscale(0);
 }
 
-.hobbies{
-    padding-top: 13%;
-}
-
-.icons{
-    max-height: 35px;
-    max-width: 27px;
-}
-
 ul,
 ol {
     margin: 30px 0;
@@ -70,22 +61,6 @@ a:hover {
     color: black;
 }
 
-/*
-a:focus {
-    color: white;
-    background-color: orange;
-}
-*/
-
-/*
-li {
-    display: inline-block;
-    padding: 0 12px;
-    border-right: solid 1px;
-    margin: 80px 0;
-}
-*/
-
 /********************************************** 
                     CLASS  
 ***********************************************/
@@ -99,6 +74,15 @@ li {
     font-size: 40px; 
     background-color: white; 
     padding: 0 20px;
+}
+
+.hobbies{
+    padding-top: 13%;
+}
+
+.icons{
+    max-height: 35px;
+    max-width: 27px;
 }
 
 .thumnail{
@@ -197,7 +181,7 @@ nav ul {
     color: white;
     padding: 0;
     text-align: right;
-    margin: 0; 
+    margin: 0;
 }
 
 nav ul li {

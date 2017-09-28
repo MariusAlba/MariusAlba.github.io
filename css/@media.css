@@ -1,6 +1,7 @@
 @media (max-width: 1024px) {
      h1{
         font-size: 1.7rem;
+         z-index: -1;
     }
     #top {
         width: 100%;
@@ -19,6 +20,9 @@
     }
     nav ul{
         max-height: 5px;
+    }
+    .main-header nav ul li{
+        margin-bottom: 0px;
     }
     .menu-icon {
         display: block;
@@ -48,9 +52,6 @@
     box-shadow: 0px 0px 50px 10px grey;
     }
     
-    .main-header nav ul li{
-        margin-bottom: 0px;
-    }
     #main-footer {
     padding: 20px 0;
     background-color: #d3d3d3;
