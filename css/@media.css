@@ -1,7 +1,6 @@
 @media (max-width: 1024px) {
      h1{
         font-size: 1.7rem;
-         z-index: -1;
     }
     #top {
         width: 100%;
