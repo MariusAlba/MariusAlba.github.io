@@ -11,7 +11,7 @@ body {
     margin: 0;
     font-size: 1em/1.5;
     font-family: sans-serif;
-    background-color: whitesmoke;
+    background-color: mintcream;
 }
 
 img {
@@ -97,7 +97,7 @@ a:hover {
 
 .work1{
     flex: 1 33.3333%;
-    background: darkgray;
+/*    background: darkgray;*/
     color: gray;
     position: relative;
     overflow: hidden;
@@ -105,6 +105,7 @@ a:hover {
 .work1 img {
     width: 100%;
     filter: grayscale(0);
+    border-radius: 10px;
 }
 
 .work1 p, h5{
@@ -125,6 +126,7 @@ a:hover {
     color: whitesmoke;
     bottom: 0px; 
     transition: all .3s ease-in-out;
+    border-radius: 10px;
 }
 
 .work1:hover a{
@@ -211,6 +213,7 @@ nav ul li a{
     border-radius:10px;
     opacity:0.7;
     box-shadow: 0px 0px 50px 10px grey;
+    filter: none;
 }
 
 .mePicture :hover {
@@ -234,18 +237,14 @@ nav ul li a{
     
 }
 .pictureAbout{
-    border-radius:10px;
-    width: 40%;
+    border-radius: 107px;
+    /* width: 40%; */
     float: right;
-    padding: 5px;
+    padding: 75px;
     height: auto;
-}
-
-.pictureAboutSnake{
-    width: 40%;
-    float: left;
-    padding: 5px;
-    height: auto;
+    margin-top: -73px;
+    margin-bottom: -38px;
+    filter: none;
 }
 
 .primary-content, 
@@ -272,7 +271,7 @@ nav ul li a{
 }
 
 .t-border {
-  border-top: 2px solid #dfe2e6;
+  border-top: 2px solid #5e6c80;
 }
 
 .primary-content {

@@ -38,22 +38,23 @@
     }
     .primary-content,
     .secondary-content {
-    width: 90%;
+        width: 90%;
     }
     
     .mePicture img{
-    max-height: 30%;
-    max-width: 30%;
-    width: auto;
-    height: auto;
-    border-radius:10px;
-    opacity:0.7;
-    box-shadow: 0px 0px 50px 10px grey;
+        max-height: 30%;
+        max-width: 30%;
+        width: auto;
+        height: auto;
+        border-radius:10px;
+        opacity:0.7;
+        box-shadow: 0px 0px 50px 10px grey;
+        filter: none;
     }
     
     #main-footer {
-    padding: 20px 0;
-    background-color: #d3d3d3;
+        padding: 20px 0;
+        background-color: #d3d3d3;
     }
     
 }
@@ -89,13 +90,13 @@
         font-size: 1rem;
     }
     .mePicture img{
-    max-height: 30%;
-    max-width: 32%;
-    width: auto;
-    height: auto;
-    border-radius:10px;
-    opacity:0.7;
-    box-shadow: 0px 0px 50px 10px grey;
+        max-height: 30%;
+        max-width: 32%;
+        width: auto;
+        height: auto;
+        border-radius:10px;
+        opacity:0.7;
+        box-shadow: 0px 0px 50px 10px grey;
     }
     .work1{
         flex: 1 100%;
@@ -109,8 +110,8 @@
     }
     .resort,
     .tips {
-    float: none;
-    width: 100%;
+        float: none;
+        width: 100%;
   }
   #main-footer {
     padding: 20px 0;
