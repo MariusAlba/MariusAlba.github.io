@@ -52,3 +52,12 @@ document.addEventListener('DOMContentLoaded', function(){
 $('nav').localScroll();
 
 new WOW().init();
+
+
+//var testt = document.getElementById('top');
+//var pattern = Trianglify({
+//		width: window.innerWidth,
+//		height: window.innerHeight
+//	});
+//
+//document.testt.appendChild(pattern.canvas());

@@ -7,7 +7,7 @@
 }
 
 body {
-    color: gray;
+    color: #231f20;
     margin: 0;
     font-size: 1em/1.5;
     font-family: sans-serif;
@@ -54,7 +54,7 @@ h3 {
 }
 
 a {
- color: white;  
+ color: #e6e6f5;  
  text-decoration: none;
 }
 
@@ -134,14 +134,14 @@ a:hover {
 }
 
 .title {
-    color:midnightblue;
+    color:#eeeeff;
     font-size: 1.625rem; /* 26px/16px = 1.625em */
     letter-spacing: .065em;
     font-weight: 200;
     padding-bottom: 2px;
 }
 .name{
-    color: midnightblue;
+    color: #eeeeff;
 }
 
 .skills {
@@ -167,7 +167,7 @@ a:hover {
 .main-header{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(170deg,#5c87b3, transparent 78%);
+    background: linear-gradient(170deg,#484748eb, transparent 78%);
 /*
     background: linear-gradient(0deg,#fff, transparent 35%),
                 url('../img/dmitri-popov-71519.jpg') no-repeat center;
@@ -195,12 +195,12 @@ nav ul li a{
 }
 .menu-icon {
     width: 100%;
-    background-color: lightgray;
+/*    background-color: lightgray;*/
     text-align: right;
     box-sizing: border-box;
     padding: 1px 10px;
     cursor: pointer;
-    color: lightseagreen;
+    color: #ECEFF1;
     display: none;
 }
 
@@ -315,7 +315,8 @@ nav ul li a{
     padding-top: 6px;
     padding-bottom: 16px;
     text-align: center;
-    background-color: #bdd7e0;
+/*    background-color: #bdd7e0;*/
+    background: linear-gradient(489deg,#484748eb, transparent 78%);
 }
 
 /*********************************************
