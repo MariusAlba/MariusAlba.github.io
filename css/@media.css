@@ -40,6 +40,12 @@
     .secondary-content {
         width: 90%;
     }
+    .row {
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: -57%;
+        margin-bottom: -31%;
+    }
     
     .mePicture img{
         max-height: 30%;
@@ -81,7 +87,6 @@
         font-size: 1rem;
         border: none;
     }
-    
     h1{
         font-size: 1.7rem;
         line-height: 1.1;
