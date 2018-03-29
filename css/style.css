@@ -44,7 +44,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: normal;
 }
 
@@ -308,9 +308,11 @@ rect {
     padding: 0 20px;
 }
 
+/*
 .hobbies{
     padding-top: 13%;
 }
+*/
 
 .icons{
     max-height: 35px;
@@ -457,9 +459,11 @@ nav ul li a{
 }
 .textAboutMe{
     width: 100%;
+/*
     display: inline-block;
     overflow: hidden;
-    padding-bottom: 10px;
+*/
+/*    padding-bottom: 10px;*/
     font-size: 1.20em;
 }
 .education{
@@ -467,13 +471,16 @@ nav ul li a{
     
 }
 .pictureAbout{
+/*
     border-radius: 107px;
     width: 50%; 
     float: right;
     padding: 75px;
+*/
     height: auto;
-    margin-top: -73px;
-    margin-bottom: -38px;
+    margin-top: 2%;
+/*    margin-bottom: -38px;*/
+    box-shadow: 0px 0px 109px -14px rgba(0,0,0,0.75);
 }
 
 .primary-content, 
