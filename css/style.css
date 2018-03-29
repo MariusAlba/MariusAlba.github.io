@@ -44,7 +44,7 @@ h1 {
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 2rem;
     font-weight: normal;
 }
 
@@ -531,7 +531,7 @@ nav ul li a{
 .linkedIn
 {
     padding: 15px;
-    color: #337ab7;
+    color: #3a3331;
 }
 
 #main-footer {

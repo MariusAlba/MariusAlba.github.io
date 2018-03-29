@@ -2,6 +2,9 @@
      h1{
         font-size: 1.7rem;
     }
+    h2{
+        font-size: 3rem;
+    }
     #top {
         width: 100%;
         padding: 0;
@@ -84,15 +87,18 @@
         cursor: pointer;
     }
     .title{
-        font-size: 1rem;
+        font-size: 1.9rem;
         border: none;
     }
     h1{
-        font-size: 1.7rem;
+        font-size: 2rem;
         line-height: 1.1;
     }
+    h2{
+        font-size: 3rem;
+    }
     .introAbout {
-        font-size: 1rem;
+        font-size: 1.9rem;
     }
     .mePicture img{
         max-height: 30%;
