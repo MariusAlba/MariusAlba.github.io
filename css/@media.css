@@ -37,7 +37,7 @@
     }
     .pictureAbout{
         width: 100%;
-        filter:none;
+/*        filter:none;*/
     }
     .primary-content,
     .secondary-content {
@@ -52,13 +52,13 @@
     
     .mePicture img{
         max-height: 30%;
-        max-width: 30%;
+        max-width: 229px;
         width: auto;
         height: auto;
         border-radius:10px;
         opacity:0.7;
         box-shadow: 0px 0px 50px 10px grey;
-        filter: none;
+/*        filter: none;*/
     }
     
     #main-footer {
