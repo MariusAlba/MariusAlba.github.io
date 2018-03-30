@@ -52,7 +52,7 @@
     
     .mePicture img{
         max-height: 30%;
-        max-width: 229px;
+        max-width: 152px;
         width: auto;
         height: auto;
         border-radius:10px;
@@ -102,7 +102,7 @@
     }
     .mePicture img{
         max-height: 30%;
-        max-width: 32%;
+        max-width: 152px;
         width: auto;
         height: auto;
         border-radius:10px;
