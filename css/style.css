@@ -54,13 +54,13 @@ h3 {
 }
 
 a {
- color: #e6e6f5;  
+ color: #e6e6f5;
  text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #E6EE9C;
+  color:rgba(0,0,0,.5);
   text-decoration: none;
 }
 
@@ -75,8 +75,8 @@ a:focus {
   overflow:hidden;
 }
 
-/* 
-Hiding the rect on page load 
+/*
+Hiding the rect on page load
 And add the "expand" animation
 */
 .row {
@@ -293,18 +293,18 @@ rect {
 }
 
 
-/********************************************** 
-                    CLASS  
+/**********************************************
+                    CLASS
 ***********************************************/
 .closingTag{
-    width: 100%; 
-    height: 24px; 
-    border-bottom: 3px solid #012B35; 
+    width: 100%;
+    height: 24px;
+    border-bottom: 3px solid #012B35;
     text-align: center;
 }
 .closingTagSpan{
-    font-size: 40px; 
-    background-color: white; 
+    font-size: 40px;
+    background-color: white;
     padding: 0 20px;
 }
 
@@ -357,7 +357,7 @@ rect {
     position: absolute;
     background: rgba(0,0,0,.6);
     color: whitesmoke;
-    bottom: 0px; 
+    bottom: 0px;
     transition: all .3s ease-in-out;
     border-radius: 10px;
 }
@@ -385,7 +385,7 @@ rect {
   padding: 0px;
 }
 .introAbout{
-  font-size: 1.25em; 
+  font-size: 1.25em;
   line-height: 1.6;
   text-align: justify;
   padding: inherit;
@@ -395,7 +395,7 @@ rect {
     height: 750px;
     background: linear-gradient(0deg,#fff, transparent 35%),
                 url('../img/dmitri-popov-71519.jpg') no-repeat center;
-    
+
     background-size: cover;
 }
 
@@ -407,7 +407,7 @@ rect {
     background: linear-gradient(0deg,#fff, transparent 35%),
                 url('../img/dmitri-popov-71519.jpg') no-repeat center;
 */
-    
+
     background-size: cover;
 }
 
@@ -468,12 +468,12 @@ nav ul li a{
 }
 .education{
     font-size: 1.20em;
-    
+
 }
 .pictureAbout{
 /*
     border-radius: 107px;
-    width: 50%; 
+    width: 50%;
     float: right;
     padding: 75px;
 */
@@ -483,14 +483,14 @@ nav ul li a{
     box-shadow: 0px 0px 109px -14px rgba(0,0,0,0.75);
 }
 
-.primary-content, 
+.primary-content,
 .secondary-content {
     width: 75%;
     padding-left: 50px;
     padding-right: 50px;
     margin: auto;
     max-width: 960px;
-} 
+}
 
 .primary-content,
 .main-header,
@@ -552,7 +552,7 @@ nav ul li a{
 }
 
 /*********************************************
-                    Floted 
+                    Floted
 **********************************************/
 .resort,
 .tips {
@@ -576,7 +576,7 @@ nav ul li a{
     height: 80%;
     background: linear-gradient(rgba(0,0,0,.2), transparent 80%), linear-gradient(0deg,#fff, transparent 0%), #dfe2e6 no-repeat center;
     background-size: cover;
-    
+
 }
 .quot{
     border-left: 0px solid #eee;
@@ -587,7 +587,7 @@ nav ul li a{
 .img-left{
     border-radius: 10%;
     box-shadow: 0px 0px 50px 10px grey;
-   
+
 }
 .group:after {
     content: "";
