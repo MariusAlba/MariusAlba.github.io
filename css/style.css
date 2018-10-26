@@ -393,8 +393,8 @@ rect {
 .main-headerAbout{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(0deg,#fff, transparent 35%),
-                url('../img/dmitri-popov-71519.jpg') no-repeat center;
+    /* background: linear-gradient(to right,#fff)
+                url('../img/dmitri-popov-71519.jpg') no-repeat center; */
 
     background-size: cover;
 }
@@ -402,7 +402,7 @@ rect {
 .main-header{
     padding-top: 17px;
     height: 750px;
-    background: linear-gradient(170deg,#484748eb, transparent 78%);
+    background: linear-gradient(to bottom,#484748, transparent 78%);
 /*
     background: linear-gradient(0deg,#fff, transparent 35%),
                 url('../img/dmitri-popov-71519.jpg') no-repeat center;
@@ -412,7 +412,7 @@ rect {
 }
 
 nav ul {
-    background-color: linear-gradient(0deg,#fff, transparent 90%);
+    /* background-color: linear-gradient(0deg,#fff, transparent 90%); */
     overflow: hidden;
     color: white;
     padding: 0;
