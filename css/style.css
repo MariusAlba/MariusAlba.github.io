@@ -755,13 +755,13 @@ nav ul li a{
 }
 .sidebarMenuInner li{
     list-style: none;
-    color: green;
     text-transform: uppercase;
     font-weight: bold;
-    padding: 5px;
+    padding: 6px;
     cursor: pointer;
-    width: 10rem;
+    width: 9rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    text-align: left;
 }
 .sidebarMenuInner li span{
     display: block;
