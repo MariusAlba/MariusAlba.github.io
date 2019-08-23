@@ -32,9 +32,11 @@ ol {
 }
 
 li{
+/*
     margin-bottom: 10px;
     display: inline-block;
     margin: 0% 1%
+*/
 }
 
 h1 {
@@ -313,11 +315,10 @@ rect {
     padding: 0 20px;
 }
 
-/*
-.hobbies{
-    padding-top: 13%;
+.hobbies li{
+    display: inline-block;
+    margin: 0% 5%;
 }
-*/
 
 .icons{
     max-height: 35px;
